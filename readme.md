@@ -81,10 +81,10 @@ To edit the font's features, add a line to your settings.json
   * Slashed 0
   * Script variant and other OpenType™ features
   * Variable font
-  * Access to prerelease
   * Variable Webfont
-  * Webfont Generator
-  * Commercial use
+  * Access to prerelease
+  * Commercial use (theoretically)
+***
   * Users / Domains: ∞ unlimited
   * Page views: ∞ unlimited
   * Print / Apps: ∞ unlimited
