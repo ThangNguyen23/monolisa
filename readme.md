@@ -84,7 +84,6 @@ To edit the font's features, add a line to your settings.json
   * Variable Webfont
   * Access to prerelease
   * Commercial use (theoretically)
-***
   * Users / Domains: ∞ unlimited
   * Page views: ∞ unlimited
   * Print / Apps: ∞ unlimited
