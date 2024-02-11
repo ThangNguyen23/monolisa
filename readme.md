@@ -16,6 +16,7 @@ If you see a new version was posted to their site, **open an issue**. We're gonn
 Download both `.ttf` files, then on
 - Windows:
   - Install the regular version **first**, then the italic one.
+  - If italic version appears instead of the regular one, just install regular again.
 - Mac:
   - Install like a regular font, if there's any issues **REPORT THEM**
 - Linux:
