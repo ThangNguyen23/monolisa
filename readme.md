@@ -1,6 +1,6 @@
 # MonoLisa - ДiSC-8 crack
 
-`Version: 2.017+, 10.02.24 Prerelease`
+`Version: 2.017+, 17.02.24 Prerelease`
 
 This is a **FULL 1:1** crack of the crazy expensive MonoLisa font, and what is there to say? We are publishing this so just anyone can use it, feel free add it to any project you want
 
