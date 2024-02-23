@@ -1,6 +1,6 @@
 <p align=center>
 <img src="https://github.com/d8-bbc11/monolisa/assets/159638529/fa32b6a9-982e-44c5-a360-8dd25036de7a">
-<b>Version:</b> <sub><sup>at least</sup></sub> 2.017<br>
+<b>Version:</b> <sub><sup>at least</sup></sub> 2.012<br>
 <i>23.02.2024 Prerelease</i>
 <hr>
 </p>
